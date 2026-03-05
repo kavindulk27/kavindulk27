@@ -1,71 +1,150 @@
-<!-- ===== Modern Gradient Header ===== -->
+<h1 align="center">Hi 👋, I'm Kavindu Kumanayaka</h1>
+
+<h3 align="center">Full Stack Developer | React & Django Developer | HNDIT Student</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=Kavindu%20Kumanayaka&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1200&color=4FC3F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Django+Specialist;Building+Modern+Web+Apps" />
-</h3>
-
----
-
-## 👨‍💻 About Me
-
-- 🚀 Full Stack Developer  
-- ⚡ Focused on React & Django  
-- 🎯 Passionate about clean UI & scalable systems  
-- 🌍 Based in Sri Lanka  
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,django,python,js,tailwind,nodejs,postgres,mysql,flutter,git,github,docker,vscode&perline=7" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;React+%7C+Django+Developer;Building+Modern+Web+Applications;UI+%2F+UX+Focused+Developer" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 👨‍💻 About Me
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kavindulk27&show_icons=true&theme=transparent&hide_border=true"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=kavindulk27&theme=transparent&hide_border=true"/>
+🎓 **HNDIT Student**
+
+💼 **Aspiring Full Stack Developer**
+
+💇 Currently Building  
+**Salon Appointment Booking System**
+
+🍽 Developed  
+**Restaurant Management System**
+
+📦 Working on  
+**Inventory Management System**
+
+🌱 Currently Learning
+
+- Advanced React
+- Django Backend Development
+- API Integration
+- System Design
+
+⚡ Fun fact  
+**I enjoy building modern UI and real world web apps 💻**
+
+---
+
+# 🚀 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,nodejs" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🍽 Restaurant Management System  
-Full Stack React + Django platform  
+## 💇 Salon Appointment System
 
-### 💇 Salon Appointment System  
-Booking + Admin dashboard  
+Online salon booking platform
 
-### 📦 Inventory Management System  
-Modern UI + Stock control  
+Features
 
----
-
-## 🌐 Connect
-
-<p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+- Service booking
+- Staff assignment
+- Booking status updates
+- Admin dashboard
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:333333&height=2"/>
-</p>
+## 🍽 Restaurant Management System
+
+Full stack restaurant platform
+
+Features
+
+- Menu management
+- Order management
+- Admin panel
+- Customer interface
+
+---
+
+## 📦 Inventory Management System
+
+Modern stock control system
+
+Features
+
+- Product management
+- Stock tracking
+- Dashboard analytics
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  ⭐ Thanks for visiting my profile
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kavindulk27&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindulk27&layout=compact&theme=tokyonight"/>
+
 </p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kavindulk27&theme=tokyonight" />
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Kavindu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kavindulk27&theme=tokyo-night)](https://github.com/kavindulk27)
+
+---
+
+# 🌐 Connect With Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/kavindu-kumanayaka">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+⭐ From [kavindulk27](https://github.com/kavindulk27)
